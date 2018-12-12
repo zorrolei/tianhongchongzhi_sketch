@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "4ABA15A1-EB08-4519-8E50-06B5D713CBAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 32,
+    "x": 209,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FE20772C-EDCC-4017-A6AB-302BA723EAB3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4B74325F-7CA5-41FE-BC54-D0C5F9028CD8"
+    }
+  ],
+  "name": "icon_tabs_order_normal",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "imageQuality": 4
+    }
+  }
+}

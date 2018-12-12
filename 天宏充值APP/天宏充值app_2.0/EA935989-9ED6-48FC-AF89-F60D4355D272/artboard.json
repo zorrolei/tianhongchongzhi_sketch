@@ -1,0 +1,153 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "EA935989-9ED6-48FC-AF89-F60D4355D272",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 998,
+    "y": -170
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "04F927C8-10B6-40C0-B3EC-DE4BC09289FB"
+    },
+    {
+      "class": "group",
+      "id": "047EB37D-951C-49C9-9474-60F5818AED06"
+    },
+    {
+      "class": "group",
+      "id": "35F95742-C326-4A9B-B4D2-71F7F706A72B"
+    },
+    {
+      "class": "group",
+      "id": "63E0DFEB-7FBB-47DB-A5BE-C4518F1C981B"
+    },
+    {
+      "class": "group",
+      "id": "B048DD0E-2E5D-45B2-A41A-A2052E1B0B00"
+    },
+    {
+      "class": "group",
+      "id": "38ECD2EC-E167-4DDE-B940-89106970306A"
+    },
+    {
+      "class": "group",
+      "id": "2B5993E9-793B-4731-B0FC-001D7819C34D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1D14B15E-4035-431B-AA98-239725079B4C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D2FE764A-9DC5-48A6-A9F4-2F9AEE9728DE"
+    },
+    {
+      "class": "group",
+      "id": "77B7D6CC-C526-4FF4-AB98-071B497543C0"
+    },
+    {
+      "class": "group",
+      "id": "90C60C0D-358F-4DBF-9ED1-D86FEDFA7E37"
+    }
+  ],
+  "name": "首页-产品块-语音功能-说话中",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "2547D4E8-76C5-426D-8869-CFD80B7F6F33",
+        "327E6288-289B-423D-B38C-FA5002145133"
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

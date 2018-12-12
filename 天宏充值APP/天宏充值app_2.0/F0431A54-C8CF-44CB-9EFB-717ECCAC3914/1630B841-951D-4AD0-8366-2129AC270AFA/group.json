@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "1630B841-951D-4AD0-8366-2129AC270AFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 160,
+    "width": 360,
+    "x": 0,
+    "y": 424
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5F1A41DC-41EE-4A66-9E91-1F13BE9521C7"
+    },
+    {
+      "class": "group",
+      "id": "6DF4AD3B-CF59-4115-A9CD-725D1316B61B"
+    },
+    {
+      "class": "group",
+      "id": "85CBB7FA-B650-42DB-85F1-598611C27B3E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CAF776E8-5740-4256-A9CA-82E773BA699E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F6B3FA92-95CC-4BEC-9166-C37DD94F6033"
+    },
+    {
+      "class": "text",
+      "id": "1E06C310-5403-4D52-B1F4-C3B140B44DDF"
+    },
+    {
+      "class": "text",
+      "id": "EEEA0E1A-8311-4113-89C2-88D5D6BF12DC"
+    },
+    {
+      "class": "group",
+      "id": "402F8773-CF96-482A-8E46-BD684C585C8C"
+    },
+    {
+      "class": "group",
+      "id": "75535BEA-6671-46CA-91D7-2A67B50C7835"
+    },
+    {
+      "class": "text",
+      "id": "0876C3B2-14FC-4471-810C-29A8C259BACB"
+    },
+    {
+      "class": "text",
+      "id": "DB13A962-9CBA-495F-893D-BED18D2A926E"
+    },
+    {
+      "class": "text",
+      "id": "932EE83D-5354-41AC-82FE-61D1889D157F"
+    },
+    {
+      "class": "text",
+      "id": "11CD4C06-585B-47D1-922B-56969F4ED6CB"
+    },
+    {
+      "class": "text",
+      "id": "2A93840F-2121-46F1-AC77-C6AA007BBB57"
+    },
+    {
+      "class": "text",
+      "id": "04950172-2D94-4B8E-B053-2D64F3DAB148"
+    }
+  ],
+  "name": "订单列表 copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

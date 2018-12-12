@@ -1,0 +1,158 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9568627450980393,
+    "green": 0.9568627450980393,
+    "red": 0.9568627450980393
+  },
+  "do_objectID": "5847C5FA-1548-48A2-A6BC-FB094846F598",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 2378,
+    "y": 3452
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "534C188F-F046-451E-BA9E-F1ED7E342DD5"
+    },
+    {
+      "class": "text",
+      "id": "AB2E2C41-941F-4048-AFF9-974F17D282B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54F230A6-F843-4BD0-B362-C51B94B0E390"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "217CECD0-5F98-4CDC-8660-511E16AF98F7"
+    },
+    {
+      "class": "group",
+      "id": "EF7A147D-9AE5-45FC-9C00-8BB8B85D9A75"
+    },
+    {
+      "class": "group",
+      "id": "4E41B8FE-3A3D-4B9F-A151-D5C0DBEC0830"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5ABB6992-8221-4383-9B86-13073B8006D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B68444C1-84C4-4E76-958E-3BD3B726B936"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1F697EA3-46D8-4F1F-BB05-822B35A6A45E"
+    },
+    {
+      "class": "group",
+      "id": "39F48E93-96ED-4427-9219-3AD59696ACB9"
+    },
+    {
+      "class": "text",
+      "id": "A4FF0E55-D8ED-490C-821C-17601BED40E3"
+    },
+    {
+      "class": "group",
+      "id": "5B0A97C3-1CBB-477A-885A-F5B10E4BAF24"
+    }
+  ],
+  "name": "我的-账号设置-账户安全-重置密码-接收验证码",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "2547D4E8-76C5-426D-8869-CFD80B7F6F33",
+        "327E6288-289B-423D-B38C-FA5002145133",
+        "2547D4E8-76C5-426D-8869-CFD80B7F6F33"
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

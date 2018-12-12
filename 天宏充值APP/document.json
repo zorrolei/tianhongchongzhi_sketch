@@ -1,0 +1,50 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "50941241-F1BC-4471-AE61-4AF66959B92E",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "50",
+    "build": 54983,
+    "version": 103
+  },
+  "pages": [
+    "天宏充值app_2.0",
+    "UI",
+    "渐变",
+    "UIMOCK",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.getty0": {
+      "ids": "[{\"id\":\"625852242\",\"layerId\":\"124A943B-38E4-4154-8AEA-151EC6CB7738\"},{\"id\":\"612619528\",\"layerId\":\"E2D1131C-47F9-4E40-847C-0E1A6F64DCB6\"},{\"id\":\"618200912\",\"layerId\":\"1A6D221D-2058-4A06-B473-D523321AA8F1\"},{\"id\":\"612619528\",\"layerId\":\"AA0037C4-D68D-429A-8D15-4C3DB9B98061\"},{\"id\":\"622956050\",\"layerId\":\"97DA143C-BDD0-4736-88C2-DB94D53A2235\"},{\"id\":\"614146768\",\"layerId\":\"C6A07467-2D33-4C6A-B2ED-7CE9B58B9F7F\"},{\"id\":\"597927618\",\"layerId\":\"C99EA3AF-F2C8-4FBD-9633-DD44FD7B5B15\"}]"
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

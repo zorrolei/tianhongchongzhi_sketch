@@ -1,0 +1,151 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "F952F596-CEFE-4D88-B060-20C2E563EC2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 4218,
+    "y": 3452
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E06B1F64-8560-4C0C-9607-0EE4CE386B04"
+    },
+    {
+      "class": "text",
+      "id": "ED8E2289-4716-4A2B-AD37-D867DD95EC68"
+    },
+    {
+      "class": "group",
+      "id": "DE009833-29FD-483D-912F-FA346F029EFD"
+    },
+    {
+      "class": "group",
+      "id": "F4B18661-B8AF-431D-8EB7-B9291371FC20"
+    },
+    {
+      "class": "group",
+      "id": "C0C66A94-5852-43DB-B251-E5F0A8670883"
+    },
+    {
+      "class": "text",
+      "id": "4C3BFA36-4A03-4F26-ACF1-87FD48D63385"
+    },
+    {
+      "class": "group",
+      "id": "BA29EEE6-4994-47F7-A818-F5B06657BF2F"
+    },
+    {
+      "class": "group",
+      "id": "23838ADA-8994-4250-85DD-7D1B76A4807A"
+    },
+    {
+      "class": "group",
+      "id": "51948D07-4AF2-4F78-B7FD-7D34EDFA1ED0"
+    },
+    {
+      "class": "group",
+      "id": "82279DDD-9435-4ECE-B1EF-C5B4EA640E7B"
+    }
+  ],
+  "name": "登录",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "2547D4E8-76C5-426D-8869-CFD80B7F6F33",
+        "327E6288-289B-423D-B38C-FA5002145133",
+        "2547D4E8-76C5-426D-8869-CFD80B7F6F33",
+        "26C1D510-00F7-41CD-9420-93EE6609735B"
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

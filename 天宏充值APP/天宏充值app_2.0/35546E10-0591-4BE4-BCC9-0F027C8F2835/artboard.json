@@ -1,0 +1,144 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9568627450980393,
+    "green": 0.9568627450980393,
+    "red": 0.9568627450980393
+  },
+  "do_objectID": "35546E10-0591-4BE4-BCC9-0F027C8F2835",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 538,
+    "y": 1582
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0D6C0F23-B2EF-49D3-95B0-FBD8945E3BDB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C234B923-9BC4-4E4C-83D4-67CFDA84E913"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5605A626-B203-4CEA-9EFA-7E46723025BE"
+    },
+    {
+      "class": "text",
+      "id": "E4A453B7-DB76-4FF5-934F-8196DC13A7B0"
+    },
+    {
+      "class": "group",
+      "id": "3C78BFDA-D8B5-4025-A5B0-D1E71FD48A6E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "30DD9C3B-62F3-4095-AEBC-F6D7E6873EED"
+    },
+    {
+      "class": "text",
+      "id": "706D241C-A6A1-4197-A1FB-2778651FEAF5"
+    },
+    {
+      "class": "group",
+      "id": "493681F9-C6E1-4B0B-B77A-F52669823B1B"
+    }
+  ],
+  "name": "宏卡查询-查询结果",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 3,
+      "included": 1,
+      "linkedLayers": [
+        "2547D4E8-76C5-426D-8869-CFD80B7F6F33",
+        "327E6288-289B-423D-B38C-FA5002145133",
+        "2547D4E8-76C5-426D-8869-CFD80B7F6F33",
+        "3B739FE4-273D-4E5B-AABE-4CA3B089FF98",
+        "7AD51F06-2C79-4E12-A38F-09FCB0D60E7D"
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

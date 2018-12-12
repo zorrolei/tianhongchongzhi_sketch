@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "2EB49245-5302-4676-9B29-4BF1467E4D6B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144.5,
+    "width": 284,
+    "x": 0,
+    "y": 72.5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A47BA7FC-DF89-4EAA-91D6-C91DE0EEB738"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9124C788-FB28-4431-8A14-041F160A9D22"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C70D60B5-5547-433C-B9E2-CF6BEEB119CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "09FDCDAA-1358-4751-AD6F-3416DF5684F2"
+    }
+  ],
+  "name": "buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

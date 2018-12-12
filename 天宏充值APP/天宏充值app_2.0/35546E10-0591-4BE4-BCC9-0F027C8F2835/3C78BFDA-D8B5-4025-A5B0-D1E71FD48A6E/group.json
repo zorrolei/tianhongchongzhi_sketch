@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "3C78BFDA-D8B5-4025-A5B0-D1E71FD48A6E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 320,
+    "x": 20,
+    "y": 92
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "69A1FE60-5032-42B2-8BEA-F29AA6241F92"
+    },
+    {
+      "class": "text",
+      "id": "AFFCE144-28BF-43CF-84EC-7D7416B3D146"
+    },
+    {
+      "class": "text",
+      "id": "5FC12CBA-DB86-447A-A196-0DB494722910"
+    },
+    {
+      "class": "group",
+      "id": "96F5D1DC-5F99-4EDC-A864-ED31681EA6BD"
+    },
+    {
+      "class": "text",
+      "id": "4911C51D-9FB3-43E6-AD5F-2969D88035D8"
+    },
+    {
+      "class": "text",
+      "id": "45530A64-769F-4755-8C0E-3DD0D0C6747D"
+    }
+  ],
+  "name": "卡",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
