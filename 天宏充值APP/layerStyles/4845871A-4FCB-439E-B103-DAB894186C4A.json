@@ -4,7 +4,7 @@
   "name": "101 Palo Alto Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -55,7 +55,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "4845871A-4FCB-439E-B103-DAB894186C4A",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

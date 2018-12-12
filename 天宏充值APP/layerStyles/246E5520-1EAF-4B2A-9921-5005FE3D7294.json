@@ -4,7 +4,7 @@
   "name": "093 Smiling Rain Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -55,7 +55,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "246E5520-1EAF-4B2A-9921-5005FE3D7294",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

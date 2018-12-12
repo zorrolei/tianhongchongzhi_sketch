@@ -4,7 +4,7 @@
   "name": "030 Happy Fisher Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -55,7 +55,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "97665D37-95CE-459C-B51C-A8A8A0327C51",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

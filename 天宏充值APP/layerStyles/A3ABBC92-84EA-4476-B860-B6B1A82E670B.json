@@ -4,7 +4,7 @@
   "name": "103 Midnight Bloom Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -55,7 +55,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "A3ABBC92-84EA-4476-B860-B6B1A82E670B",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

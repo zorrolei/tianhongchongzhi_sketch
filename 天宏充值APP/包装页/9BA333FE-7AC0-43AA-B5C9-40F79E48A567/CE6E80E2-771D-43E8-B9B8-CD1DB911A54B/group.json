@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CE6E80E2-771D-43E8-B9B8-CD1DB911A54B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CFE1FF9C-831F-4E3D-B111-52C16FB65114",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "643C48AD-6DB6-4C6F-9E20-D3944166F4C3",
+    "height": 839,
+    "width": 1047,
+    "x": 77,
+    "y": 7040
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0B5DBA1E-6EE3-43EC-A72E-562352B7E8F2"
+    },
+    {
+      "class": "group",
+      "id": "92EBB125-4228-441E-B7AD-1DB3860BE17C"
+    }
+  ],
+  "name": "iMac/01/Clay White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C65DB01E-509B-40C1-B56D-540CD9E72445",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "8F9453CD-4651-4ABF-AF70-4AF01D4AF652",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

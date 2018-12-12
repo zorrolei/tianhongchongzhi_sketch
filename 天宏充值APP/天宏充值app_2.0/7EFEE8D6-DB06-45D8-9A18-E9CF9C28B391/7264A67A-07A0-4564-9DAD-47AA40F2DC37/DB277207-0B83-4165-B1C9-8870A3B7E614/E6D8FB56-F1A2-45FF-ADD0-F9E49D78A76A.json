@@ -32,6 +32,8 @@
     "string": "全球最火热moba对战网游"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "E6D8FB56-F1A2-45FF-ADD0-F9E49D78A76A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -52,6 +54,8 @@
     "y": 32
   },
   "glyphBounds": "{{0, 3}, {139, 12}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -66,9 +70,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -92,7 +96,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

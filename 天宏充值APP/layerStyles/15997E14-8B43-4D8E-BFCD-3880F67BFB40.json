@@ -4,7 +4,7 @@
   "name": "107 Confident Cloud Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -55,7 +55,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "15997E14-8B43-4D8E-BFCD-3880F67BFB40",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

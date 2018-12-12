@@ -7,7 +7,9 @@
     "green": 0.007513228338211775,
     "red": 0.816203773021698
   },
+  "booleanOperation": 0,
   "changeIdentifier": 2670,
+  "clippingMaskMode": 0,
   "do_objectID": "002314D6-7EA2-452F-8AAD-5F22E3DE7EE0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -28,6 +30,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -37,6 +40,7 @@
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -49,15 +53,15 @@
       "id": "A0FEA5D3-B1C0-4833-9085-BBFD493D4B56"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "AAD3371E-3BBB-49FA-9ADE-E945B33A8D87"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "DB4F150C-B4FB-4F65-B216-A6F3CF12BDEB"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "794D4D5F-5C31-49D4-AC2C-282AB3539A69"
     }
   ],
@@ -70,7 +74,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -90,7 +94,8 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "80E954D9-1140-4898-9BCA-9C3D72C53184",
   "userInfo": {

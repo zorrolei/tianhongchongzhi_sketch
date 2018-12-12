@@ -34,6 +34,8 @@
     "string": "天宏"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "07C9CBC8-C047-40F1-B073-01E9E47D3A9B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -54,6 +56,8 @@
     "y": 12
   },
   "glyphBounds": "{{0, 3}, {27, 14}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -65,13 +69,13 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "9779A83F-D1E9-4FFE-800D-8152982B444C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "9779A83F-D1E9-4FFE-800D-8152982B444C",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -97,7 +101,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

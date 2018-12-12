@@ -4,7 +4,7 @@
   "name": "130 Full Metal Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -181,7 +181,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "5C14D2E4-15DA-4086-99BF-2F5687447AB9",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

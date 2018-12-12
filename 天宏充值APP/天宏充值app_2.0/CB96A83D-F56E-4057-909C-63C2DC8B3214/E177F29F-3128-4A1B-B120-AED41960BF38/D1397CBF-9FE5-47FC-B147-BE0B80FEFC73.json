@@ -91,6 +91,8 @@
     "string": "ABCDEFGHIJKLMNOPQRSTUVWXYZ#"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "D1397CBF-9FE5-47FC-B147-BE0B80FEFC73",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -111,6 +113,8 @@
     "y": 8
   },
   "glyphBounds": "{{0, 2}, {10, 321}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -125,9 +129,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -154,7 +158,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

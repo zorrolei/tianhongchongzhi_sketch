@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5549D206-BF57-4AC8-8679-03CED9206A97",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 146,
+    "width": 260,
+    "x": 0,
+    "y": 72
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "919261D6-6FCE-4577-9C15-67696F7C9CC6"
+    },
+    {
+      "class": "text",
+      "id": "63764C78-0633-4E0F-A9DD-9923A7BA3678"
+    },
+    {
+      "class": "text",
+      "id": "A5CE050A-C33E-492F-9023-C69161FDFB56"
+    },
+    {
+      "class": "group",
+      "id": "8AB39716-4E61-4ED4-9D76-BDD2BBCCBB3C"
+    },
+    {
+      "class": "text",
+      "id": "D09B834F-399B-4F79-A8DF-DDA926EC199A"
+    },
+    {
+      "class": "text",
+      "id": "591FC575-86E3-4B2C-841D-9DD02C4692C9"
+    }
+  ],
+  "name": "卡 copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.111111111111112,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

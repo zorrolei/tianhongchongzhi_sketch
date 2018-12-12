@@ -7,7 +7,9 @@
     "green": 0.2588235294117647,
     "red": 0.2588235294117647
   },
+  "booleanOperation": 0,
   "changeIdentifier": 4,
+  "clippingMaskMode": 0,
   "do_objectID": "8C56D8D4-667A-4F5E-AF54-AA07AA6353EA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -29,6 +31,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -38,6 +41,7 @@
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -59,7 +63,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -80,7 +84,8 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "0381CB70-8461-4B57-BEBD-670ADE22408F",
   "userInfo": {

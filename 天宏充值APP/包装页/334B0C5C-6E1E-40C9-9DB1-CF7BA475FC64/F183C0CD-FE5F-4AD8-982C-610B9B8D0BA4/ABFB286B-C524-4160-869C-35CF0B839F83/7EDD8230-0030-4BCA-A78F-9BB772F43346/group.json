@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7EDD8230-0030-4BCA-A78F-9BB772F43346",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FEE792AA-11D0-400C-BD8F-CE658EBBF77F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BFBBE794-5609-4E55-9D89-CE634815D8AA",
+    "height": 68.04878048780483,
+    "width": 255.7586690017513,
+    "x": 611.2335959217876,
+    "y": 346.8157756219599
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "70BE541F-F311-4D27-9A62-53751C1C0FD7"
+    },
+    {
+      "class": "group",
+      "id": "4FB6581A-FFC2-45BA-B48C-0D5FDDE30376"
+    }
+  ],
+  "name": "Built-in stereo speaker/microphone",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 10,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E20D0949-81A0-498E-926D-77717D5AA22E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.1,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "F750E889-F032-460E-A9DA-871A920509F3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

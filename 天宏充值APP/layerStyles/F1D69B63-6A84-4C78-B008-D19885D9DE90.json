@@ -4,7 +4,7 @@
   "name": "141 Earl Gray Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -128,7 +128,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "F1D69B63-6A84-4C78-B008-D19885D9DE90",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

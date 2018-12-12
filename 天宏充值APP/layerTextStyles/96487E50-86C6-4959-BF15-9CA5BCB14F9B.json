@@ -4,10 +4,9 @@
   "name": "首页-顶部选项卡-选中",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "96487E50-86C6-4959-BF15-9CA5BCB14F9B",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -31,6 +30,7 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   }
 }

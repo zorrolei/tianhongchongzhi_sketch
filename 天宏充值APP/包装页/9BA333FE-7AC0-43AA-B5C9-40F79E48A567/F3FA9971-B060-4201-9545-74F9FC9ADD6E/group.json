@@ -1,0 +1,114 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F3FA9971-B060-4201-9545-74F9FC9ADD6E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 80,
+    "x": 60,
+    "y": 60
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "779575DC-D422-4079-82A3-DB8359115C63"
+    },
+    {
+      "class": "oval",
+      "id": "9F655AB8-DB7E-4596-9F1A-41C0D32CADE2"
+    },
+    {
+      "class": "oval",
+      "id": "38D4A16F-7FD5-49D9-8486-2C92109F4A50"
+    },
+    {
+      "class": "oval",
+      "id": "256FCFB3-45BC-49F1-B883-B354119973FE"
+    },
+    {
+      "class": "oval",
+      "id": "1DA06A8E-835A-4A49-B488-4276B5A05003"
+    },
+    {
+      "class": "oval",
+      "id": "61D38B37-CEEA-41B1-AD7B-9E2DD3B5D123"
+    },
+    {
+      "class": "oval",
+      "id": "E3B9A9A6-A8C3-4A99-86A6-52B31223F6C6"
+    },
+    {
+      "class": "oval",
+      "id": "35FD1817-3B55-44B9-BCA0-2FE75E644354"
+    },
+    {
+      "class": "oval",
+      "id": "4ABBCB16-5D9E-4FCE-99EC-4D37B63AF996"
+    },
+    {
+      "class": "oval",
+      "id": "C2BB0EA6-113B-4083-89C0-3EA57535ACBD"
+    },
+    {
+      "class": "oval",
+      "id": "E2365BD3-CEAE-48A1-9E7B-2C3B42679AB3"
+    },
+    {
+      "class": "oval",
+      "id": "4C1BDE32-0EE1-4742-8E66-44C4F3BF3A6F"
+    },
+    {
+      "class": "oval",
+      "id": "82C7925F-E742-4672-B083-96D1961B21ED"
+    },
+    {
+      "class": "oval",
+      "id": "438C0328-7C03-4194-823C-DCEA88F9E3A9"
+    },
+    {
+      "class": "oval",
+      "id": "6941D9E7-6C75-4372-A9C5-52CBB826BD66"
+    },
+    {
+      "class": "oval",
+      "id": "25E4274D-4381-41AF-A26E-9DFD9B5D11C0"
+    },
+    {
+      "class": "oval",
+      "id": "5BD55994-566D-4EE3-8129-E7D3020A8D41"
+    }
+  ],
+  "name": "Oval 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

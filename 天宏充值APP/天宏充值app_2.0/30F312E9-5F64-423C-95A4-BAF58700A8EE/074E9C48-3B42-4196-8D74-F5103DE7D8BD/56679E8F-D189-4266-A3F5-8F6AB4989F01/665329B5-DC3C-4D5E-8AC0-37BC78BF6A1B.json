@@ -32,6 +32,8 @@
     "string": "Q币"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "665329B5-DC3C-4D5E-8AC0-37BC78BF6A1B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -52,6 +54,8 @@
     "y": 49
   },
   "glyphBounds": "{{0, 3}, {24, 14}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -66,9 +70,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -92,7 +96,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

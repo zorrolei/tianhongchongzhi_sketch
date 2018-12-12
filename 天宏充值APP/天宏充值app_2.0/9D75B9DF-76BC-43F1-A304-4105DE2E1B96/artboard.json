@@ -7,6 +7,8 @@
     "green": 0.9568627450980393,
     "red": 0.9568627450980393
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "9D75B9DF-76BC-43F1-A304-4105DE2E1B96",
   "exportOptions": {
     "_class": "exportOptions",
@@ -36,6 +38,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,15 +47,16 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "F89B8BBB-CCF9-4DB7-81B3-C593E9A47939"
     },
     {
@@ -84,7 +88,7 @@
       "id": "98B1F1BE-C254-496A-888B-AD1484C80640"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "4B1B00DA-3FCC-4AB4-9339-090A4C9E631D"
     },
     {
@@ -96,7 +100,7 @@
       "id": "08D6FDAF-0C23-4C74-BD44-419BE2B937F0"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "54706A5A-91D7-4417-9EFF-4D6EC2791732"
     },
     {
@@ -116,7 +120,7 @@
       "id": "AA75E591-D581-48CC-BA6A-FA8B2AC474F2"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "1F75F525-667C-4B3A-9B46-7B413BE5BBB3"
     },
     {
@@ -144,7 +148,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -164,11 +168,16 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 3
+      "highestQuality": 3,
+      "included": 1,
+      "linkedLayers": [
+        "71EBE15F-F67E-413F-B8ED-65327829833D"
+      ]
     }
   },
   "verticalRulerData": {

@@ -1,5 +1,7 @@
 {
   "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "8C163E43-B84C-47DD-8D4B-B2C51F7E7877",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,6 +21,8 @@
     "y": 6
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -30,7 +34,7 @@
       "id": "F0D75BF0-DE3E-43A7-AA0F-A2229498C1A3"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "FB7D38C4-6450-410C-B43A-8E47CCDAB76D"
     }
   ],
@@ -42,9 +46,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "io.magicsketch.mirror": {

@@ -4,7 +4,7 @@
   "name": "116 Above The Sky Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -88,7 +88,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "D093B8B0-A9C9-40DE-BA9E-B859F64B952A",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

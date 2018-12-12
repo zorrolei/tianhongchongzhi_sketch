@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C0DC2E50-9638-4511-B550-82C81648E0F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "48D993D3-BF04-4513-BA23-8A6E8A9DA7C5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE467EC0-97C4-4F07-B811-3BC4113BCAE3",
+    "height": 62,
+    "width": 80,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C147975F-5BBA-41DC-814A-88A3A7F12227"
+    }
+  ],
+  "name": "钻石",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1921E8E6-DD07-45F3-A20C-78E17011B913",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "3473B78C-E33F-44D6-8DA9-399BB3ECD9A3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

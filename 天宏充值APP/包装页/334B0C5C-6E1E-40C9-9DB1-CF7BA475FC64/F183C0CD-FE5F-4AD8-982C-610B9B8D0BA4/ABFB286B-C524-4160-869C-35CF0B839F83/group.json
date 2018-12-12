@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "ABFB286B-C524-4160-869C-35CF0B839F83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0147F604-45D7-4C12-A50F-C6F582E8EBDC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1ED973D5-08F5-4207-B4D6-EE6D7731D542",
+    "height": 445.2574525745258,
+    "width": 873.5271453590193,
+    "x": 200.8832457676591,
+    "y": 92.41192411924118
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F9919009-9680-42D8-A88C-38C485B2086F"
+    },
+    {
+      "class": "group",
+      "id": "00855B82-2CDA-4B13-AC03-C662DA275CA5"
+    },
+    {
+      "class": "group",
+      "id": "E8826B91-6C96-4132-9F81-1FB551BDBB09"
+    },
+    {
+      "class": "group",
+      "id": "7EDD8230-0030-4BCA-A78F-9BB772F43346"
+    },
+    {
+      "class": "group",
+      "id": "8A40372C-DDAC-4E3A-88AC-270D5D8DF020"
+    },
+    {
+      "class": "group",
+      "id": "648677F1-A22A-4168-8341-73C148DFEFB5"
+    },
+    {
+      "class": "group",
+      "id": "B3A981ED-A0B9-4FBC-BE20-6387850F9B36"
+    },
+    {
+      "class": "group",
+      "id": "9E7A3774-3464-4FFD-9E06-9D5DA4F2ECD9"
+    },
+    {
+      "class": "group",
+      "id": "174D9235-67DC-4509-8379-EE6D769D8054"
+    }
+  ],
+  "name": "iPhone X 05/Left/Flat",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "885DD5E3-621B-485F-9190-4BF60DF2AE99",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.199999999999999,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "0E1AA33D-A576-434A-859C-0394CCCDF38E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -4,7 +4,7 @@
   "name": "119 Chemic Aqua Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -180,7 +180,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "2D3DF688-5413-44E5-A9D0-1BACADA1C8B3",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

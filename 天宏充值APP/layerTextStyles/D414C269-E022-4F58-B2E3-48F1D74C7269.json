@@ -4,10 +4,9 @@
   "name": "文字-首页侧栏",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "D414C269-E022-4F58-B2E3-48F1D74C7269",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -31,6 +30,7 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   }
 }

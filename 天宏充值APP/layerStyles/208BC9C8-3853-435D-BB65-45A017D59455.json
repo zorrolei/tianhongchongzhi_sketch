@@ -4,7 +4,7 @@
   "name": "175 Magic Ray Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -66,7 +66,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "208BC9C8-3853-435D-BB65-45A017D59455",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

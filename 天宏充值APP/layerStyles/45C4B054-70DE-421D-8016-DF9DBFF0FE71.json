@@ -4,7 +4,7 @@
   "name": "158 Angel Care Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -66,7 +66,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "45C4B054-70DE-421D-8016-DF9DBFF0FE71",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

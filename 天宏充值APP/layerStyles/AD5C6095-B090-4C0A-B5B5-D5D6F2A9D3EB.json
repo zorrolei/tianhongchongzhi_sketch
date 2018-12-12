@@ -4,7 +4,7 @@
   "name": "118 Dense Water Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -66,7 +66,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "AD5C6095-B090-4C0A-B5B5-D5D6F2A9D3EB",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

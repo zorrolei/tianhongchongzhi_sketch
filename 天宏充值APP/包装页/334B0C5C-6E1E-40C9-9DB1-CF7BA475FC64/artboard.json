@@ -1,0 +1,128 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "334B0C5C-6E1E-40C9-9DB1-CF7BA475FC64",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 600,
+    "width": 800,
+    "x": 1589,
+    "y": 1057
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F183C0CD-FE5F-4AD8-982C-610B9B8D0BA4"
+    },
+    {
+      "class": "rectangle",
+      "id": "31B9AEEB-41FF-483E-B250-8279BDB09664"
+    },
+    {
+      "class": "rectangle",
+      "id": "0CEAD43C-DF39-40AA-AD8B-71EAD77918D5"
+    },
+    {
+      "class": "text",
+      "id": "C389C18F-99D7-4CEF-930A-1FF83D7CDF3D"
+    },
+    {
+      "class": "text",
+      "id": "04A6A54F-F7D0-4F86-8931-666E0326C250"
+    },
+    {
+      "class": "group",
+      "id": "A3F81F3D-013B-4D5F-94D8-048CA80326C3"
+    },
+    {
+      "class": "rectangle",
+      "id": "C1FFFB53-4EF5-4937-8C63-CCFAEB27F098"
+    },
+    {
+      "class": "rectangle",
+      "id": "9D3D0A6F-4976-45C5-B8D9-E441EE5E113D"
+    },
+    {
+      "class": "rectangle",
+      "id": "A9A0AC70-B06D-4EFE-A9E0-34B51E8F2B67"
+    },
+    {
+      "class": "rectangle",
+      "id": "7563BF41-1935-44A3-925F-87D06FD1A4BD"
+    },
+    {
+      "class": "rectangle",
+      "id": "6DBB55B6-2C5E-4353-9215-3DE73B02FB91"
+    }
+  ],
+  "name": "封面",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

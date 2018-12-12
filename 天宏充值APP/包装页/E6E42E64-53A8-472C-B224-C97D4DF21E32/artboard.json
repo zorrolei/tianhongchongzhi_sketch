@@ -1,0 +1,103 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E6E42E64-53A8-472C-B224-C97D4DF21E32",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1080,
+    "width": 1920,
+    "x": 1904,
+    "y": 4834
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "21DC7C43-EC6E-43DD-BF5F-BFF96B6DDE7E"
+    },
+    {
+      "class": "group",
+      "id": "C9C960F1-9C20-4AD3-AF77-BE4B41BE0AEC"
+    },
+    {
+      "class": "text",
+      "id": "44451863-354F-42B0-94C1-076266F00EE2"
+    },
+    {
+      "class": "group",
+      "id": "6A1D5613-3D65-48C8-8D04-6E869B17DFE0"
+    },
+    {
+      "class": "group",
+      "id": "8CE81BBA-AF12-4F22-B532-AAF6483C16D2"
+    },
+    {
+      "class": "group",
+      "id": "AE166262-6B2B-4CD7-9B78-5FFB1B74B281"
+    }
+  ],
+  "name": "Artboard",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 2,
+      "included": 1,
+      "linkedLayers": [
+        "568DBD8B-706F-48CE-B11F-5B072C9DCC00"
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

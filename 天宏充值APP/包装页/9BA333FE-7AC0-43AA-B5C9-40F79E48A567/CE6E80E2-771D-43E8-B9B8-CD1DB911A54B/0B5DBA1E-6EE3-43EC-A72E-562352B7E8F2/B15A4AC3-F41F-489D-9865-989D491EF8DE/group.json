@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B15A4AC3-F41F-489D-9865-989D491EF8DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D9A12C21-3840-4E3D-B985-C1A086FF61BD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C5DBD065-399F-40A4-800C-01CD52798FF1",
+    "height": 120.5,
+    "width": 317.5,
+    "x": 364.5,
+    "y": 718.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "0DC91267-6F16-4A5E-800D-68E480D739DD"
+    },
+    {
+      "class": "group",
+      "id": "3F3060F0-2387-493B-A760-7A2BBF168050"
+    },
+    {
+      "class": "shapePath",
+      "id": "3AD4279F-568F-42B2-B95B-D9F614D88A73"
+    }
+  ],
+  "name": "Feet",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A2A680BB-EA22-47CD-A43C-F8E0BBC59B54",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "9D220055-FFD0-4B02-A5EB-57A0A9EBE87D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

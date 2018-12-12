@@ -4,7 +4,7 @@
   "name": "063 Soft Cherish Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -121,7 +121,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "DE0706FC-2F7F-4B06-B7F9-027BBFA93ADF",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

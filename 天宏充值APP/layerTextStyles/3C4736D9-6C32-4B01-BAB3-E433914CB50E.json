@@ -4,10 +4,9 @@
   "name": "文字-首页TABS",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "3C4736D9-6C32-4B01-BAB3-E433914CB50E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -31,6 +30,7 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   }
 }

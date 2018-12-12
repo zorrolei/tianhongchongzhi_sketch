@@ -4,7 +4,7 @@
   "name": "152 Sea Lord Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -66,7 +66,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "432410D1-736A-4670-A2BE-132495B458D6",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

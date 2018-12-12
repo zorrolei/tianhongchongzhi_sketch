@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F7917FDA-C9F4-469A-9A2B-253B6E69AED2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D8BD1A2-B93C-4CA1-89E0-6A6E79F33893",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E34DA018-6236-4689-B55B-84305911882D",
+    "height": 62,
+    "width": 80,
+    "x": 302,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E7DA93BB-4EC4-484E-B959-542D95A86368"
+    },
+    {
+      "class": "text",
+      "id": "CE139615-FFE5-42DD-B4D6-698C3383F3BA"
+    },
+    {
+      "class": "rectangle",
+      "id": "375053EE-8D08-4FB9-BCE9-52DFC53F66A3"
+    }
+  ],
+  "name": "卡图标",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BCBDBB75-5432-4DC5-A9D0-1C732323E0A9",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "855B0D35-43AD-4C2E-97D6-14537AEF737B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

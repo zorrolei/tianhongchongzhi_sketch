@@ -9,10 +9,9 @@
       "blendMode": 0,
       "opacity": 0.800000011920929
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "A2520253-E4AA-41FD-A33C-0DEEE73E9121",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -36,6 +35,7 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   }
 }

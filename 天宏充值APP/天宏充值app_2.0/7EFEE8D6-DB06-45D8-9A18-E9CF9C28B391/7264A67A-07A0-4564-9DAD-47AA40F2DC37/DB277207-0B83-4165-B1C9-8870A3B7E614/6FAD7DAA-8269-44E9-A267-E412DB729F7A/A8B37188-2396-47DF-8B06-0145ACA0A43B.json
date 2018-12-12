@@ -32,6 +32,8 @@
     "string": "接口"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "A8B37188-2396-47DF-8B06-0145ACA0A43B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -52,6 +54,8 @@
     "y": 12
   },
   "glyphBounds": "{{0, 2}, {17, 9}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -66,9 +70,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -92,7 +96,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

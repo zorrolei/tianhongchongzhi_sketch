@@ -4,7 +4,7 @@
   "name": "157 Sleepless Night Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -66,7 +66,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "66A2C9E1-6899-4F38-852A-3A532E7D797B",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

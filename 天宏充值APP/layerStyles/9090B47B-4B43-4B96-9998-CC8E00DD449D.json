@@ -4,7 +4,7 @@
   "name": "038 Star Wine Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -77,7 +77,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "9090B47B-4B43-4B96-9998-CC8E00DD449D",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

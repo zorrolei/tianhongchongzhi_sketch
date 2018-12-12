@@ -4,7 +4,7 @@
   "name": "背景-标题栏",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -88,7 +88,7 @@
         "spread": 0
       }
     ],
-    "sharedObjectID": "437C159E-FAA2-4C9E-8897-A6354AFA5CAE",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

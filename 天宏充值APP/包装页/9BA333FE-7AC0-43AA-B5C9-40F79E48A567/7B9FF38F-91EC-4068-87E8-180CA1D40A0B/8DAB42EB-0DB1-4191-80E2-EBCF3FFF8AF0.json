@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8DAB42EB-0DB1-4191-80E2-EBCF3FFF8AF0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E172ECAB-CDDE-4BE3-8977-C405BFE57F47",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DCBC3D2-824A-4C98-9544-350EC6D36C86",
+    "height": 45,
+    "width": 45,
+    "x": 405.5,
+    "y": 0.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon_tabs_account_normal ",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.5,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "69357FEB-07D8-4115-A51F-F6D6CE2650A7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 15,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "27E449C5-B1ED-4576-8090-2B3E625DC593",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE18E9E3-6A84-4082-BA8E-A8C1D733E73A",
+  "verticalSpacing": 0
+}

@@ -35,6 +35,8 @@
     "string": "天猫等接口预留"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "BD813825-5C3A-425B-8BCB-405865D5AD92",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +57,8 @@
     "y": 16
   },
   "glyphBounds": "{{0, 3}, {111, 16}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -66,13 +70,13 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "9779A83F-D1E9-4FFE-800D-8152982B444C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "9779A83F-D1E9-4FFE-800D-8152982B444C",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -99,7 +103,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

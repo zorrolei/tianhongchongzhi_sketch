@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C971AB9C-A0C3-487F-926A-35BBE58AAEB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CBAAD467-CF81-4FCA-B9C8-922AEA2FC916",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C44242F8-1B5B-4C1E-ADFB-CDFCAB03F30B",
+    "height": 12.18157181571815,
+    "width": 11.33905429071803,
+    "x": 33.80718038528905,
+    "y": 5.462557577730197
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "23B7EDBE-A4A7-40A3-95FE-945F0FD8C119"
+    }
+  ],
+  "name": "Hole Copy 4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1AD9CB9B-BAD2-4CE4-8D39-0E756D1E9929",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.700000000000001,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "885231C5-559A-421D-A8ED-D90E7D14A20E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

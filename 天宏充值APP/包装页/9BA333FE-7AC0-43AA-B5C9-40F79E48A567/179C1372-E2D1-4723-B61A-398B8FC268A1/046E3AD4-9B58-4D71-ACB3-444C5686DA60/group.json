@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "046E3AD4-9B58-4D71-ACB3-444C5686DA60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "10F0E3B8-9B8E-4F80-BB99-9CC3ADA4648F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BDC4AD9B-9866-4711-B7D4-4DC985D42A29",
+    "height": 507.9999999999999,
+    "width": 611,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A6BAA4FD-77A0-42D4-8D56-D920AF58199F"
+    },
+    {
+      "class": "shapePath",
+      "id": "6044E7FD-8739-4D7B-A30C-A4E38DC822C0"
+    },
+    {
+      "class": "group",
+      "id": "C4F01FC1-55BF-4C15-8786-2D18C6DEACDA"
+    },
+    {
+      "class": "group",
+      "id": "01C39289-B15E-4B3D-8404-FA762E9FCCEB"
+    },
+    {
+      "class": "group",
+      "id": "9A5D4D96-7F56-47A9-9FD7-9E56FE51B5DC"
+    },
+    {
+      "class": "group",
+      "id": "24012587-AFA6-458E-B94C-83D150ED9B54"
+    },
+    {
+      "class": "group",
+      "id": "6779060B-B40E-42D4-8F96-1904952B3389"
+    },
+    {
+      "class": "group",
+      "id": "D65F578A-AFBC-43BF-B9AB-1810CC8681F2"
+    }
+  ],
+  "name": "Body ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BAED0999-EEF0-40CF-ABB0-2761234D0C46",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.8,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E139AEFB-6924-4903-931D-9218AFF4588C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

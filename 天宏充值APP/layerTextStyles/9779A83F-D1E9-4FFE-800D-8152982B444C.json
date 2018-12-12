@@ -4,10 +4,9 @@
   "name": "Material/Light/Subhead",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "9779A83F-D1E9-4FFE-800D-8152982B444C",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -34,6 +33,7 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   }
 }

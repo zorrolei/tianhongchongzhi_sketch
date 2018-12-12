@@ -34,6 +34,8 @@
     "string": "按折扣排序"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "85CF4DED-1D04-41EA-B8FA-361044E44AB5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -54,6 +56,8 @@
     "y": 15
   },
   "glyphBounds": "{{23, 3}, {72, 14}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,9 +72,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -96,7 +100,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

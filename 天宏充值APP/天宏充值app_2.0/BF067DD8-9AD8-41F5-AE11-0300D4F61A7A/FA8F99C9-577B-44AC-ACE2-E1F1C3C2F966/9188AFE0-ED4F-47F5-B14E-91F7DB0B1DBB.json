@@ -32,6 +32,8 @@
     "string": "卡寄售"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "9188AFE0-ED4F-47F5-B14E-91F7DB0B1DBB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -52,6 +54,8 @@
     "y": 0
   },
   "glyphBounds": "{{0, 3}, {47, 16}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -63,6 +67,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "A2520253-E4AA-41FD-A33C-0DEEE73E9121",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -72,10 +77,9 @@
       "opacity": 0.800000011920929
     },
     "do_objectID": "C5EC4463-8804-4707-8261-055D699778BD",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "A2520253-E4AA-41FD-A33C-0DEEE73E9121",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -99,7 +103,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

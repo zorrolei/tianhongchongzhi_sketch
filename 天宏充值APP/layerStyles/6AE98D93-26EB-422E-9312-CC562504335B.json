@@ -4,7 +4,7 @@
   "name": "040 Сoup de Grace Style",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -128,7 +128,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "6AE98D93-26EB-422E-9312-CC562504335B",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

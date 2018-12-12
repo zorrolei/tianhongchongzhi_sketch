@@ -1,5 +1,7 @@
 {
   "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "84B6907C-18B1-43B5-AF62-47396063C087",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,6 +21,8 @@
     "y": 0
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -26,47 +30,47 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "3741E799-CA1D-421F-B470-F45064F16485"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "9E43BAA8-175C-48FA-9071-770478496F22"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "88E6BA92-84C6-450F-9EE9-2E9AF804369A"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "8E559CE6-1352-4A24-8514-89FEAA5E6A9F"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "236A2AFF-6817-432D-9210-1EEB66E6F263"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "0B7FAE44-CCC8-4A34-9CC1-9CE25AF1B33E"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "4EF66A36-9CBC-49D2-928B-F8DC56FFA779"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "F8084F87-FF8C-4C70-B598-457D150F4010"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "AF6A3BCC-651F-4858-A1A2-1FA2C08D0B8D"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "F9BD9D40-6A56-4EAD-AC7A-7A3C2DDB85F3"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "7AD5FCE4-7E0F-469F-915A-F4DA117CB719"
     }
   ],
@@ -84,9 +88,10 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 8,
+      "saturation": 1,
       "type": 0
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -106,6 +111,7 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

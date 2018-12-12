@@ -7,6 +7,7 @@
     "green": 1,
     "red": 1
   },
+  "booleanOperation": 0,
   "do_objectID": "8A4DCCD2-8576-4656-95A6-DE35CAE40419",
   "exportOptions": {
     "_class": "exportOptions",
@@ -35,6 +36,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

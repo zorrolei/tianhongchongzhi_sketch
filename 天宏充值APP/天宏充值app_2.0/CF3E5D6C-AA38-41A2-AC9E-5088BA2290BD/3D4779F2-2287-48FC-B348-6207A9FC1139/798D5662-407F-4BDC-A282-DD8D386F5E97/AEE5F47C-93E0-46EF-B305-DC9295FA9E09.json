@@ -36,6 +36,8 @@
     "string": "9.56折起"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "AEE5F47C-93E0-46EF-B305-DC9295FA9E09",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 16
   },
   "glyphBounds": "{{0, 3}, {57, 14}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,13 +71,13 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "9779A83F-D1E9-4FFE-800D-8152982B444C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "9779A83F-D1E9-4FFE-800D-8152982B444C",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -101,7 +105,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }
